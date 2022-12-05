@@ -62,4 +62,11 @@ h3 {
 .btn:hover {
     background-color: #fff;
     color: #f8b627;
+    transition: 0.3s;
+}
+p {
+    margin-top: 10px;
+    color: rgb(148, 141, 141);
+    letter-spacing: 2px;
+    text-transform: capitalize;
 }
